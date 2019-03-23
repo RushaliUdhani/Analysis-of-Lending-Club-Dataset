@@ -14,3 +14,5 @@ Task 4: Part 2 AutoML We used- a. TPOT b. AutSKLearn c. H2o.ai
 And summarized the MAPE for each model.
 
 Task 5: Analysis We Built out test cases to test out use cases that are important for our client. claat document link for analysis: https://docs.google.com/document/d/18CjQeZKqqHK9gusSjen6zibELeFaEFM_ACZmdYRCycY/edit#
+
+Dataset used for this project --> https://www.kaggle.com/wendykan/lending-club-loan-data
